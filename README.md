@@ -5,7 +5,7 @@
   - [天文部](https://niticastronomy.myportfolio.com/)（部長）
   - 学生会執行部（役員）
   - Media Design Labo（副リーダー）
-- At Coder[At Coder](https://atcoder.jp/users/Jun1013)もやってます
+- [At Coder](https://atcoder.jp/users/Jun1013)もやってます
 - 使ったことがある言語は以下のとおりです
   - C/C++
   - Python
