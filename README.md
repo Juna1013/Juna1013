@@ -5,6 +5,7 @@
   - 天文部（部長）
   - 学生会執行部（役員）
   - Media Design Labo（副リーダー）
+- At Coderやってます[At Coder](https://atcoder.jp/users/Jun1013)
 <!---
 Juna1013/Juna1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
