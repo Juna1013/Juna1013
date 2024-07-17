@@ -10,6 +10,8 @@
   - C/C++
   - Python
   - HTML/CSS
+- UnityとLinuxを勉強中です。
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
