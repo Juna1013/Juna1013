@@ -10,7 +10,7 @@
   - C/C++
   - Python
   - HTML/CSS
-- UnityとLinuxを勉強中です。
+- UnityとLinuxを勉強中です
 
 <p align="left">
   <a href="https://skillicons.dev">
