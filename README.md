@@ -10,11 +10,12 @@
   - C/C++
   - Python
   - HTML/CSS
+  - Rust
 - UnityとLinuxを勉強中です
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,rust" />
   </a>
 </p>
 
