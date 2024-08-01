@@ -10,7 +10,7 @@
   - C/C++
   - Python
   - HTML/CSS
-  - Rust
+  - Rust（初学者）
 - UnityとLinuxを勉強中です
 
 <p align="left">
