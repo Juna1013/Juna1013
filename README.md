@@ -10,11 +10,10 @@
   - C/C++
   - Python
   - HTML/CSS
-  - Rust（初学者）
-- UnityとJavaScriptを勉強中です。
+- RustとJavaScriptを勉強中です。
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
   </a>
 </p>
 
