@@ -1,19 +1,15 @@
 # 👋 Hi, I’m @Juna1013
 
 - Web開発初心者の機械・制御系の高専生です
-- 所属している学内の団体は以下のとおりです（2024年現在)
-  - [天文部](https://niticastronomy.myportfolio.com/)（部長）
-  - 学生会執行部（役員）
-  - Media Design Labo（副リーダー）
 - At Coderやってます（[プロフィール](https://atcoder.jp/users/Jun1013)）
 - 使ったことがある言語は以下のとおりです
   - C/C++
   - Python
   - HTML/CSS
-- RustとJavaScriptを勉強中です。
+- JavaScriptを勉強中です。
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css, tailwindcss" />
   </a>
 </p>
 
