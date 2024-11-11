@@ -2,12 +2,6 @@
 
 - Web開発初心者の制御系の高専生です
 - At Coderやってます（[プロフィール](https://atcoder.jp/users/Jun1013)）
-- 使ったことがある言語・フレームワークは以下のとおりです
-  - C/C++
-  - Python
-  - HTML/CSS
-  - TailwindCSS
-- JavaScriptを勉強中です。
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel" />
