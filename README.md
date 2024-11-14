@@ -2,7 +2,7 @@
 
 - Web開発初心者の制御系の高専生です
 - At Coderやってます（[プロフィール](https://atcoder.jp/users/Jun1013)）
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel" />
   </a>
