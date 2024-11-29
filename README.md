@@ -4,7 +4,7 @@
 - At Coderやってます（灰色）
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown,notion,instagram" />
   </a>
 </p>
 
