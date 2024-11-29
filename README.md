@@ -36,3 +36,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </picture>
 </div>
+
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juna1013/fukayatti0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juna1013/fukayatti0/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Juna1013/fukayatti0/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
