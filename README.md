@@ -31,6 +31,8 @@
   </table>
 </div>
 
+## Achievements
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" />
