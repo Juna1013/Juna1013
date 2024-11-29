@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Juna1013
+## 👋 Hi, I’m @Juna1013
 
 - Web開発初心者の制御系の高専生です
 - At Coderやってます（灰色）
@@ -7,6 +7,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown" />
   </a>
 </p>
+
+## Analytics
 
 <div align="center">
   <table>
