@@ -28,3 +28,11 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dark&column=7&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </picture>
+</div>
