@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Juna1013
+## 📒About
 
 - Web開発初心者の制御系の高専生です
 - At Coderやってます（灰色）
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Analytics
+## 📉Analytics
 
 <div align="center">
   <table>
@@ -31,7 +31,7 @@
   </table>
 </div>
 
-## Achievements
+## 🏆Achievements
 
 <div align="center">
   <picture>
