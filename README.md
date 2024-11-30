@@ -4,16 +4,16 @@
 - At Coderやってます（灰色）
 
 ## ⚙ Skils
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,tailwindcss,vercel,markdown" />
   </a>
-</p>
+</div>
 
 ## ✏ Studying
 <p align="center">
