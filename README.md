@@ -19,7 +19,7 @@
 ## ✏ Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,unity,rust" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,unity,rust,raspberrypi" />
   </a>
 </p>
 
