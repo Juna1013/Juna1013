@@ -13,7 +13,7 @@
 ## ✏ Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,numpy" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,unity" />
   </a>
 </p>
 
