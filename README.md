@@ -1,6 +1,6 @@
 ## 📒 About
 
-- Web開発初心者の制御系の高専生です
+- Web開発初心者の制御系の高専生
 - At Coderやってます（灰色）
 <p align="center">
   <a href="https://skillicons.dev">
