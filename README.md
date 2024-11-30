@@ -3,10 +3,17 @@
 - Web開発初心者の高専生
 - At Coderやってます（灰色）
 
-## ⚙ Tech
+## ⚙ Skils
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown" />
+  </a>
+</p>
+
+## ✏ Studying
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,react,numpy" />
   </a>
 </p>
 
