@@ -2,6 +2,8 @@
 
 - Web開発初心者の制御系高専生
 - At Coderやってます（灰色）
+
+## ⚙ Tech
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown" />
