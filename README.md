@@ -17,16 +17,16 @@
 </div>
 
 ## ✏ Studying
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,unity" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,rust,raspberrypi" />
   </a>
-</p>
+</div>
 
 
 ## 📉 Analytics
