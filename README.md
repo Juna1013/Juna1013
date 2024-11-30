@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="100%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
       </td>
       <td width="50%">
