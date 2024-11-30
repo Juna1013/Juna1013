@@ -1,7 +1,8 @@
 ## 📒 About
 
-- Web開発初心者の高専生
-- At Coderやってます（灰色）
+- 制御系高専生
+- Web開発（フロントエンド）初心者
+- 競プロer
 
 ## ⚙ Skils
 <div align="center">
