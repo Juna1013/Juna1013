@@ -4,6 +4,10 @@
 - フロントエンド初心者
 - 競プロer
 
+## 🌟 Want to do
+- VRアプリケーション制作
+- CTF
+
 ## ⚙ Skils
 <div align="center">
   <a href="https://skillicons.dev">
