@@ -15,24 +15,14 @@
     <img src="https://skillicons.dev/icons?i=python,tailwindcss,vercel,markdown" /></br>
   </a>
 </div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tailwindcss,vercel,markdown" />
-  </a>
-</div>
 
 ## 🖊 Studying
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,unity" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,unity" /></br>
+    <img src="https://skillicons.dev/icons?i=cs,rust,raspberrypi,figma" /></br>
   </a>
 </div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,rust,raspberrypi,figma" />
-  </a>
-</div>
-
 
 ## 📉 Analytics
 
