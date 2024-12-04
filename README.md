@@ -11,8 +11,8 @@
 ## ⚙ Skils
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
-     <img src="https://skillicons.dev/icons?i=python,tailwindcss,vercel,markdown" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" /></br>
+    <img src="https://skillicons.dev/icons?i=python,tailwindcss,vercel,markdown" /></br>
   </a>
 </div>
 <div align="center">
