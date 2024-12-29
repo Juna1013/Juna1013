@@ -21,8 +21,9 @@
 ## 🖊 Studying
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,scss,unity" /></br>
-    <img src="https://skillicons.dev/icons?i=cs,rust,raspberrypi,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react" /></br>
+    <img src="https://skillicons.dev/icons?i=scss,unity,cs" /></br>
+    <img src="https://skillicons.dev/icons?i=rust,raspberrypi,figma" /></br>
   </a>
 </div>
 
