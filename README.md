@@ -33,18 +33,22 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Juna1013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Juna1013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+             alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juna1013&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juna1013&theme=tokyonight&hide_border=true&background=00000000"
+             alt="GitHub Streak Stats" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+             alt="Most Used Languages" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juna1013&theme=tokyonight" alt="Contribution Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juna1013&theme=tokyonight"
+             alt="Contribution Time" />
       </td>
     </tr>
   </table>
@@ -54,22 +58,25 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dark&column=7&no-frame=true&no-bg=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)"
+      　　　srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: light)" 
+      　　　srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dark&column=7&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" 
+      　 alt="GitHub Trophies" />
   </picture>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username={Juna1013}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" 
+         src="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
