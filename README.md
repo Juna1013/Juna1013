@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,rust,raspberrypi,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=ruat,cs,unity,raspberrypi,figma" /></br>
   </a>
 </div>
 
