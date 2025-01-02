@@ -15,7 +15,8 @@
 ## 🖊 Studying
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,scss,fastapi" /></br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react" /></br>
+    <img src="https://skillicons.dev/icons?i=vite,scss,fastapi" /></br>
   </a>
 </div>
 
