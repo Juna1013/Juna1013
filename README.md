@@ -4,12 +4,6 @@
 - フロントエンド初心者
 - 競プロer
 
-## 🌟 Want to do
-- 機械学習
-- VRアプリケーション制作
-- Unity
-- CTF
-
 ## ⚙ Skils
 <div align="center">
   <a href="https://skillicons.dev">
@@ -21,9 +15,15 @@
 ## 🖊 Studying
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react" /></br>
-    <img src="https://skillicons.dev/icons?i=scss,unity,cs" /></br>
-    <img src="https://skillicons.dev/icons?i=rust,raspberrypi,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,scss,fastapi" /></br>
+  </a>
+</div>
+
+## 🌟 Want to do
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,rust,raspberrypi,figma" /></br>
   </a>
 </div>
 
