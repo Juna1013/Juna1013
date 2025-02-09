@@ -15,7 +15,7 @@
 ## 🖊 Studying
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react" /></br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" /></br>
     <img src="https://skillicons.dev/icons?i=vite,scss,fastapi" /></br>
   </a>
 </div>
@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,rust,cs" /></br>
-    <img src="https://skillicons.dev/icons?i=unity,raspberrypi,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=rust,cs,unity" /></br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,figma" /></br>
   </a>
 </div>
 
