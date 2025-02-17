@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,cs,unity" /></br>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,figma,docker" /></br>
   </a>
 </div>
 
