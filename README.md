@@ -58,16 +58,21 @@
 
 ## 🏆 Achievements
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      　　　srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" />
-    <source media="(prefers-color-scheme: light)" 
-      　　　srcset="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dark&column=7&no-frame=true&no-bg=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=nord&column=7&no-frame=true&no-bg=true" 
-      　 alt="GitHub Trophies" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=juna1013&card_width=640&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&card_width=640"/>
+</p>
+
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=Jun1013&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
+</p>
 
 ## 🐍 Contribution Snake
  
