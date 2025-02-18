@@ -31,33 +31,6 @@
 
 ## 📉 Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Juna1013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
-             alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juna1013&theme=tokyonight&hide_border=true&background=00000000"
-             alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
-             alt="Most Used Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juna1013&theme=tokyonight"
-             alt="Contribution Time" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🏆 Achievements
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
 </p>
@@ -69,6 +42,8 @@
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&card_width=640"/>
 </p>
+
+## 🏆 Achievements
 
 <p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=Jun1013&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
