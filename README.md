@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,tailwindcss,vercel,markdown" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown" alt="Skills" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vite,scss,fastapi" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro" alt="Currently Learning" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cs,unity,firebase,raspberrypi,figma,docker" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=rust,raspberrypi,fastapi" alt="Future Interests" />
   </a>
 </p>
 
