@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,raspberrypi,fastapi" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=rust,arduino,raspberrypi,fastapi" alt="Future Interests" />
   </a>
 </p>
 
