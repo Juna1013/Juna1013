@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juna1013&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </p>
 
