@@ -31,6 +31,10 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juna1013&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
