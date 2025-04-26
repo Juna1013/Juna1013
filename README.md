@@ -63,7 +63,7 @@ const Juna1013 = {
   <a href="https://qiita.com/Juna1013">
     <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
-  <a href="https://zenn.dev/Juna1013">
+  <a href="https://zenn.dev/jun1013">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a>
 </p>
