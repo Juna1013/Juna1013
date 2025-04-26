@@ -57,6 +57,17 @@ const Juna1013 = {
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=algolia&no-frame=true&column=5&margin-w=16&margin-h=16" alt="Trophies" />
 </p>
 
+## 🌐Access
+
+<p align="center">
+  <a href="https://qiita.com/Juna1013">
+    <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+  <a href="https://zenn.dev/Juna1013">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
