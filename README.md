@@ -60,8 +60,8 @@ const Juna1013 = {
 ## 🌐Access
 
 <p align="center">
-   <a href="https://x.com/juna1013_">
-    <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  <a href="https://x.com/juna1013_">
+    <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="X" />
   </a>
   <a href="https://qiita.com/Juna1013">
     <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
