@@ -1,13 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 
 
-## 📒 About Me
+### 📒 About Me
 
-- 制御系高専生
-- フロントエンド初心者
-- 競プロer
+```typescript
+const fukayatti = {
+  name: Juna1013,
+  age: 15,
+  location: "Japan 🇯🇵",
+  learning: [
+    "Raspberry Pi",
+    "FastAPI",
+    "Nuxt.js",
+    "PostgreSQL",
+    "Supabase",
+    "Machine Learning",
+  ],
+};
+```
 
-## ⚙ Skills
+### ⚙ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,7 +27,7 @@
   </a>
 </p>
 
-## 🖊 Currently Learning
+### 🖊 Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +35,7 @@
   </a>
 </p>
 
-## 🌟 Future Interests
+### 🌟 Future Interests
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +43,7 @@
   </a>
 </p>
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
@@ -41,13 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=algolia&no-frame=true&column=5&margin-w=16&margin-h=16" alt="Trophies" />
 </p>
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
