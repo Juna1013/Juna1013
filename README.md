@@ -4,8 +4,7 @@
 ### 📒 About Me
 
 ```typescript
-const fukayatti = {
-  name: Juna1013,
+const Juna1013 = {
   age: 15,
   location: "Japan 🇯🇵",
   learning: [
