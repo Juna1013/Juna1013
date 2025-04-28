@@ -2,11 +2,9 @@
 
 ## 📒 About Me
 
-<!--
 <p align="center">
   <img src="/profile.jpg" width="200" height="300" alt="Profile Picture" />
 </p>
--->
 
 ```typescript
 const Juna1013 = {
