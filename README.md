@@ -8,7 +8,7 @@
 
 ```typescript
 const Juna1013 = {
-  age: 15,
+  age: 18,
   location: "Japan 🇯🇵",
   learning: [
     "Raspberry Pi",
