@@ -3,8 +3,9 @@
 ## 📒 About Me
 
 <p align="center">
-  <img src="/profile.png" width="250" height="250" alt="Profile Picture" />
+  <img src="/profile.png" width="250" height="250" alt="Profile Picture" style="border-radius: 50%;" />
 </p>
+
 
 ```typescript
 const Juna1013 = {
