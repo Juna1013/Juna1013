@@ -3,7 +3,7 @@
 ## 📒 About Me
 
 <p align="center">
-  <img src="/profile.png" width="200" height="270" alt="Profile Picture" />
+  <img src="/profile.png" width="250" height="250" alt="Profile Picture" />
 </p>
 
 ```typescript
