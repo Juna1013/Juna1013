@@ -2,6 +2,7 @@
 
 ## 📒 About Me
 
+<!--
 <p align="center">
   <svg width="250" height="250">
     <defs>
@@ -12,8 +13,7 @@
     <image href="/profile.jpg" width="250" height="250" clip-path="url(#circleView)" />
   </svg>
 </p>
-
-
+-->
 
 ```typescript
 const Juna1013 = {
@@ -43,7 +43,9 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=astro,arduino,raspberrypi" alt="Currently Learning" />
   </a>
 </p>
 
@@ -51,7 +53,7 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,fastapi,flask,nestjs,postgresql,supabase" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,postgresql,supabase" alt="Future Interests" />
   </a>
 </p>
 
