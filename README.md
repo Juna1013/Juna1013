@@ -43,9 +43,9 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Currently Learning" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Currently Learning" />
-    <img src="https://skillicons.dev/icons?i=astro,arduino,raspberrypi" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Currently Learning" /></br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Currently Learning" /></br>
+    <img src="https://skillicons.dev/icons?i=astro,arduino,raspberrypi" alt="Currently Learning" /></br>
   </a>
 </p>
 
