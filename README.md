@@ -42,7 +42,7 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,fastapi,flask,nuxtjs,postgresql,supabase" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,fastapi,flask,nestjs,postgresql,supabase" alt="Future Interests" />
   </a>
 </p>
 
