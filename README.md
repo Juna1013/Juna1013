@@ -3,7 +3,7 @@
 ## 📒 About Me
 
 <p align="center">
-  <img src="/profile.png" width="250" height="250" alt="Profile Picture" style="border-radius: 50%;" />
+  <img src="/profile.jpg" width="250" height="250" alt="Profile Picture" style="border-radius: 50%;" />
 </p>
 
 
