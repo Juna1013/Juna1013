@@ -3,8 +3,16 @@
 ## 📒 About Me
 
 <p align="center">
-  <img src="/profile.jpg" width="250" height="250" alt="Profile Picture" style="border-radius: 50%;" />
+  <svg width="250" height="250">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="125" cy="125" r="125" />
+      </clipPath>
+    </defs>
+    <image href="/profile.jpg" width="250" height="250" clip-path="url(#circleView)" />
+  </svg>
 </p>
+
 
 
 ```typescript
