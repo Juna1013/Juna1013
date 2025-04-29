@@ -35,7 +35,8 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,git" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,vercel,markdown,git" alt="Skills" /></br>
   </a>
 </p>
 
