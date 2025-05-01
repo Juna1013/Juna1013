@@ -21,9 +21,8 @@ const Juna1013 = {
   location: "Japan",
   learning: [
     "Raspberry Pi",
-    "Flask",
     "FastAPI",
-    "Nuxt.js",
+    "Ruby",
     "PostgreSQL",
     "Supabase",
     "Machine Learning",
