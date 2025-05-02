@@ -73,7 +73,7 @@ const Juna1013 = {
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=algolia&no-frame=true&column=4&margin-w=16&margin-h=16" alt="Trophies" />
 </p>
 
-## 🌐Access
+## 🌐 Access
 
 <p align="center">
   <a href="https://twitter.com/juna1013_">
