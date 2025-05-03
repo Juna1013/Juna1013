@@ -25,7 +25,6 @@ const Juna1013 = {
     "Ruby",
     "PostgreSQL",
     "Supabase",
-    "Machine Learning",
   ],
 };
 ```
