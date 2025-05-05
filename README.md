@@ -2,7 +2,6 @@
 
 ## 📒 About Me
 
-<!--
 <p align="center">
   <svg width="250" height="250">
     <defs>
@@ -13,7 +12,6 @@
     <image href="/profile.jpg" width="250" height="250" clip-path="url(#circleView)" />
   </svg>
 </p>
--->
 
 ```typescript
 const Juna1013 = {
