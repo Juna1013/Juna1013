@@ -51,7 +51,7 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,hono,ruby,postgresql,supabase" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=fastapi,ruby,postgresql,supabase" alt="Future Interests" />
   </a>
 </p>
 
