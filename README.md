@@ -7,7 +7,6 @@ const Juna1013 = {
   age: 18,
   location: "Japan",
   learning: [
-    "Raspberry Pi",
     "FastAPI",
     "Ruby",
     "PostgreSQL",
