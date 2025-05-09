@@ -8,7 +8,7 @@ const Juna1013 = {
   location: "Japan",
   learning: [
     "FastAPI",
-    "Ruby",
+    "Ruby on Rails",
     "PostgreSQL",
     "Supabase",
   ],
