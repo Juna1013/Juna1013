@@ -7,6 +7,7 @@ const Juna1013 = {
   age: 18,
   location: "Japan",
   learning: [
+    "Marchine learning",
     "FastAPI",
     "Ruby on Rails",
     "PostgreSQL",
