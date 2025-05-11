@@ -8,6 +8,7 @@ const Juna1013 = {
   location: "Japan",
   learning: [
     "Marchine learning",
+    "Deep learning",
     "FastAPI",
     "Ruby on Rails",
     "PostgreSQL",
