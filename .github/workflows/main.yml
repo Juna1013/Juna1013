@@ -9,16 +9,15 @@ jobs:
   profile-updater:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: kumackey/profile-updater@v1
+      - uses: actions/checkout@v4
+      - uses: kumackey/profile-updater@main
         with:
-          zenn_user_id: kumackey
-          connpass_nickname: kumackey
-          qiita_user_id: kumackey
+          zenn_user_id: jun1013
+          qiita_user_id: juna1013
       - name: Commit and push
         run: |
-          git config --local user.name "Juna1013"
-          git config --local user.email "jmeron.530@gmail.com"
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "action@github.com"
           git add .
           git commit -m "profile updated" || true
           git push origin main
