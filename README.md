@@ -10,9 +10,11 @@ const Juna1013 = {
     "Python",
     "JavaScript / TypeScript",
     "React",
-    "Ruby on Rails",
-    "PostgreSQL",
-    "Supabase",
+    "Next.js",
+    "Vite",
+    "Astro",
+    "Arduino",
+    "RaspberryPi"
   ],
 };
 ```
