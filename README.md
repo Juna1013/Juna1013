@@ -19,14 +19,13 @@ const Juna1013 = {
 
 ## ⚙ Skills
 
-- **Next.js<sup>15</sup>** ▲ `app`ルーター
-- **Panda CSS** 🐼 トークンとレシピを用いたデザインシステムの構築
-- **Drizzle** 🌧️ 型安全なORM
-- **Zod** 💎 スキーマとバリデータの定義
-- **Storybook** 📕 アクセシビリティやインタラクションテストの実行と見た目の確認
-- **Vitest** ⚡ ユニットテストの実行
-- **Playwright** 🎭 E2Eテストの実行
-- **Turborepo** ⚙️ モノレポのビルドやリントのキャッシュ管理
+- **C/C++** ⚒️ 競技プログラミング
+- **HTML/CSS** 🐼 Web開発
+- **TailwindCSS** 🌧️ CSSフレームワーク
+- **Vercel** 💎 個人開発プロダクトのデプロイ先
+- **Markdown** 📕 READMEの記述
+- **Git** ⚡ コミット/プッシュ
+- **Bash** 🎭 ターミナルの操作
 
 <p align="center">
   <a href="https://skillicons.dev">
