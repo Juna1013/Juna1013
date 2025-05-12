@@ -35,14 +35,14 @@ const Juna1013 = {
 
 ## 🖊 Currently Learning
 
-- **Python** ⚒️ 競技プログラミング
+- **Python** ⚒️ 機械学習
 - **JavaScript/TypeScript** 🐼 Web開発
-- **React** 🌧️ CSSフレームワーク
-- **Next.js** 💎 個人開発プロダクトのデプロイ先
-- **Vite** 📕 READMEの記述
-- **Astro** ⚡ コミット/プッシュ
-- **aruduino** 🎭 ターミナルの操作
-- **RaspberryPi** 🎭 ターミナルの操作
+- **React** 🌧️ Jaライブラリ
+- **Next.js** 💎 Reactフレームワーク
+- **Vite** 📕 Reactフレームワーク
+- **Astro** ⚡ 
+- **Aruduino** 🎭 電子工作
+- **RaspberryPi** 🎭 電子工作
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,6 +51,11 @@ const Juna1013 = {
 </p>
 
 ## 🌟 Future Interests
+
+- **FastAPI** ⚒️ 簡易的なAPI
+- **Ruby** 🐼 バックエンド開発
+- **PostgreSQL** 🌧️ データベース操作言語
+- **Supabase** 💎 バックエンドのデプロイ先
 
 <p align="center">
   <a href="https://skillicons.dev">
