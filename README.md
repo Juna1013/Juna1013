@@ -75,7 +75,7 @@ const Juna1013 = {
   </a>
 </p>
 
-## Tech Blog
+## 📒 Tech Blog
 
 ### Zenn Articles
 
