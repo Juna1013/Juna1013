@@ -42,7 +42,7 @@ const Juna1013 = {
 - **Vite** ⚡｜フロントエンド開発ビルドツール
 - **Astro** 🌌｜静的サイト向けのフレームワーク
 - **Arduino** ⚙️｜RaspberryPiの開発環境
-- **Raspberry Pi** 🍓｜PBL
+- **Raspberry Pi** 🍓｜PBL実験での利用
 
 <p align="center">
   <a href="https://skillicons.dev">
