@@ -20,12 +20,12 @@ const Juna1013 = {
 ## ⚙ Skills
 
 - **C/C++** ⚒️ 競技プログラミング
-- **HTML/CSS** 🐼 Web開発
-- **TailwindCSS** 🌧️ CSSフレームワーク
-- **Vercel** 💎 個人開発プロダクトのデプロイ先
-- **Markdown** 📕 READMEの記述
-- **Git** ⚡ コミット/プッシュ
-- **Bash** 🎭 ターミナルの操作
+- **HTML / CSS** 📄｜Webページの骨組みとスタイルの基本技術
+- **TailwindCSS** 🎨｜ユーティリティファーストなCSSフレームワーク
+- **Vercel** ☁️｜Next.jsとの相性が良い高速なホスティングサービス
+- **Markdown** ✍️｜READMEやドキュメント記述用の軽量マークアップ言語
+- **Git** 🔧｜バージョン管理とチーム開発の必須ツール
+- **Bash** 🖥️｜ターミナル操作やスクリプト実行に利用
 
 <p align="center">
   <a href="https://skillicons.dev">
