@@ -7,9 +7,9 @@ const Juna1013 = {
   age: 18,
   location: "Japan",
   learning: [
-    "Marchine learning",
-    "Deep learning",
-    "FastAPI",
+    "Python",
+    "JavaScript / TypeScript",
+    "React",
     "Ruby on Rails",
     "PostgreSQL",
     "Supabase",
