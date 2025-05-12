@@ -17,8 +17,8 @@ jobs:
           qiita_user_id: kumackey
       - name: Commit and push
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "action@github.com"
+          git config --local user.name "Juna1013"
+          git config --local user.email "jmeron.530@gmail.com"
           git add .
           git commit -m "profile updated" || true
           git push origin main
