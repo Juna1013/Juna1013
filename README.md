@@ -21,11 +21,11 @@ const Juna1013 = {
 
 - **C/C++** ⚒️ 競技プログラミング
 - **HTML / CSS** 📄｜Webページの骨組みとスタイルの基本技術
-- **TailwindCSS** 🎨｜ユーティリティファーストなCSSフレームワーク
-- **Vercel** ☁️｜Next.jsとの相性が良い高速なホスティングサービス
+- **TailwindCSS** 🎨｜CSSフレームワーク
+- **Vercel** ☁️｜ホスティングサービス
 - **Markdown** ✍️｜READMEやドキュメント記述用
-- **Git** 🔧｜バージョン管理とチーム開発の必須ツール
-- **Bash** 🖥️｜ターミナル操作やスクリプト実行に利用
+- **Git** 🔧｜バージョン管理ツール
+- **Bash** 🖥️｜ターミナル操作・スクリプト実行
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,14 +35,14 @@ const Juna1013 = {
 
 ## 🖊 Learning
 
-- **Python** 🧠｜機械学習やデータ分析によく使う言語
-- **JavaScript / TypeScript** 🌐｜Web開発におけるフロント/バック両対応の言語
+- **Python** 🧠｜機械学習・データ分析
+- **JavaScript / TypeScript** 🌐｜Web開発におけるフロント/バック
 - **React** ⚛️｜UI構築のためのJavaScriptライブラリ
-- **Next.js** 🚀｜Reactを拡張したフルスタックフレームワーク
-- **Vite** ⚡｜高速なフロントエンド開発ビルドツール
-- **Astro** 🌌｜静的サイトやコンテンツ指向Webに特化したフレームワーク
-- **Arduino** ⚙️｜マイコンボードを使ったハードウェア開発
-- **Raspberry Pi** 🍓｜小型PCを活用したIoT・電子工作
+- **Next.js** 🚀｜Reactのフルスタックフレームワーク
+- **Vite** ⚡｜フロントエンド開発ビルドツール
+- **Astro** 🌌｜静的サイト向けのフレームワーク
+- **Arduino** ⚙️｜RaspberryPiの開発環境
+- **Raspberry Pi** 🍓｜PBL
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,10 +52,10 @@ const Juna1013 = {
 
 ## 🌟 Interests
 
-- **FastAPI** ⚡｜Python製の軽量かつ高速なAPIフレームワーク
-- **Ruby** 💎｜シンプルで書きやすいバックエンド向け言語
-- **PostgreSQL** 🗄️｜高性能なオープンソースのリレーショナルデータベース
-- **Supabase** 🛡️｜Firebaseの代替となるオープンソースのBaaS
+- **FastAPI** ⚡｜Python製APIフレームワーク
+- **Ruby** 💎｜バックエンド
+- **PostgreSQL** 🗄️｜リレーショナルデータベース
+- **Supabase** 🛡️｜BaaS
 
 <p align="center">
   <a href="https://skillicons.dev">
