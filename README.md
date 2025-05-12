@@ -38,8 +38,8 @@ const Juna1013 = {
 ## 🖊 Learning
 
 - **Python** 🧠｜機械学習・データ分析
-- **JavaScript / TypeScript** 🌐｜Web開発におけるフロント/バック
-- **React** ⚛️｜UI構築のためのJavaScriptライブラリ
+- **JavaScript / TypeScript** 🌐｜Web開発
+- **React** ⚛️｜UI構築用Js / Tsライブラリ
 - **Next.js** 🚀｜Reactのフルスタックフレームワーク
 - **Vite** ⚡｜フロントエンド開発ビルドツール
 - **Astro** 🌌｜静的サイト向けのフレームワーク
