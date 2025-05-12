@@ -35,11 +35,18 @@ const Juna1013 = {
 
 ## 🖊 Currently Learning
 
+- **Python** ⚒️ 競技プログラミング
+- **JavaScript/TypeScript** 🐼 Web開発
+- **React** 🌧️ CSSフレームワーク
+- **Next.js** 💎 個人開発プロダクトのデプロイ先
+- **Vite** 📕 READMEの記述
+- **Astro** ⚡ コミット/プッシュ
+- **aruduino** 🎭 ターミナルの操作
+- **RaspberryPi** 🎭 ターミナルの操作
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Currently Learning" /></br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Currently Learning" /></br>
-    <img src="https://skillicons.dev/icons?i=astro,arduino,raspberrypi" alt="Currently Learning" /></br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,arduino,raspberrypi" alt="Currently Learning" /></br>
   </a>
 </p>
 
