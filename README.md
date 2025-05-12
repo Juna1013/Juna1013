@@ -23,7 +23,7 @@ const Juna1013 = {
 - **HTML / CSS** 📄｜Webページの骨組みとスタイルの基本技術
 - **TailwindCSS** 🎨｜ユーティリティファーストなCSSフレームワーク
 - **Vercel** ☁️｜Next.jsとの相性が良い高速なホスティングサービス
-- **Markdown** ✍️｜READMEやドキュメント記述用の軽量マークアップ言語
+- **Markdown** ✍️｜READMEやドキュメント記述用
 - **Git** 🔧｜バージョン管理とチーム開発の必須ツール
 - **Bash** 🖥️｜ターミナル操作やスクリプト実行に利用
 
@@ -35,14 +35,14 @@ const Juna1013 = {
 
 ## 🖊 Currently Learning
 
-- **Python** ⚒️ 機械学習
-- **JavaScript/TypeScript** 🐼 Web開発
-- **React** 🌧️ Jaライブラリ
-- **Next.js** 💎 Reactフレームワーク
-- **Vite** 📕 Reactフレームワーク
-- **Astro** ⚡ 
-- **Aruduino** 🎭 電子工作
-- **RaspberryPi** 🎭 電子工作
+- **Python** 🧠｜機械学習やデータ分析によく使う言語
+- **JavaScript / TypeScript** 🌐｜Web開発におけるフロント/バック両対応の言語
+- **React** ⚛️｜UI構築のためのJavaScriptライブラリ
+- **Next.js** 🚀｜Reactを拡張したフルスタックフレームワーク
+- **Vite** ⚡｜高速なフロントエンド開発ビルドツール
+- **Astro** 🌌｜静的サイトやコンテンツ指向Webに特化したフレームワーク
+- **Arduino** ⚙️｜マイコンボードを使ったハードウェア開発
+- **Raspberry Pi** 🍓｜小型PCを活用したIoT・電子工作
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,10 +52,10 @@ const Juna1013 = {
 
 ## 🌟 Future Interests
 
-- **FastAPI** ⚒️ 簡易的なAPI
-- **Ruby** 🐼 バックエンド開発
-- **PostgreSQL** 🌧️ データベース操作言語
-- **Supabase** 💎 バックエンドのデプロイ先
+- **FastAPI** ⚡｜Python製の軽量かつ高速なAPIフレームワーク
+- **Ruby** 💎｜シンプルで書きやすいバックエンド向け言語
+- **PostgreSQL** 🗄️｜高性能なオープンソースのリレーショナルデータベース
+- **Supabase** 🛡️｜Firebaseの代替となるオープンソースのBaaS
 
 <p align="center">
   <a href="https://skillicons.dev">
