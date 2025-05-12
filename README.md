@@ -20,7 +20,7 @@ const Juna1013 = {
 ## ⚙ Skills
 
 - **C/C++** ⚒️ 競技プログラミング
-- **HTML / CSS** 📄｜Webページの骨組み・スタイル
+- **HTML/CSS** 📄｜Webページの骨組み・スタイル
 - **TailwindCSS** 🎨｜CSSフレームワーク
 - **Vercel** ☁️｜ホスティングサービス
 - **Markdown** ✍️｜READMEやドキュメント記述用
