@@ -24,12 +24,12 @@ const Juna1013 = {
 - **TailwindCSS** 🎨｜CSSフレームワーク
 - **Vercel** ☁️｜ホスティングサービス
 - **Markdown** ✍️｜READMEやドキュメント記述用
-- **Git** 🔧｜バージョン管理ツール
 - **Bash** 🖥️｜ターミナル操作・スクリプト実行
+- **Git** 🔧｜バージョン管理ツール
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,git,bash" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,bash,git" alt="Skills" /></br>
   </a>
 </p>
 
