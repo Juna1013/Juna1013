@@ -24,10 +24,10 @@ const Juna1013 = {
 - **C/C++** ⚒️ 競技プログラミング
 - **HTML/CSS** 📄｜Webページの骨組み・スタイル
 - **TailwindCSS** 🎨｜CSSフレームワーク
-- **Vercel** ☁️｜フロントエンドのホスティングサービス
+- **Vercel** ☁️｜デプロイ先
 - **Markdown** ✍️｜READMEやドキュメント記述用
 - **Bash** 🖥️｜ターミナル操作・スクリプト実行
-- **Git** 🔧｜バージョン管理ツール
+- **Git** 🔧｜バージョン管理
 
 <p align="center">
   <a href="https://skillicons.dev">
