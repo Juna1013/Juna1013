@@ -8,7 +8,7 @@ const Juna1013 = {
   location: "Japan",
   learning: [
     "Python",
-    "JavaScript / TypeScript",
+    "JS / TS",
     "React",
     "Next.js",
     "Vite",
