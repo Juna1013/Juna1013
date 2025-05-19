@@ -42,7 +42,7 @@ const Juna1013 = {
 - **React** ⚛️｜UI構築用Js / Tsライブラリ
 - **Next.js** 🚀｜Reactのフルスタックフレームワーク
 - **Vite** ⚡｜フロントエンド開発ビルドツール
-- **Astro** 🌌｜静的サイト向けのフレームワーク
+- **Astro** 🌌｜静的サイト用フレームワーク
 - **Arduino** ⚙️｜RaspberryPiの開発環境
 - **Raspberry Pi** 🍓｜PBL実験での利用
 
@@ -54,7 +54,7 @@ const Juna1013 = {
 
 ## 🌟 Interests
 
-- **FastAPI** ⚡｜Python製APIフレームワーク
+- **FastAPI** ⚡｜APIフレームワーク
 - **Ruby** 💎｜バックエンド
 - **PostgreSQL** 🗄️｜リレーショナルデータベース
 - **Supabase** 🛡️｜BaaS
