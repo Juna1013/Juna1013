@@ -75,7 +75,9 @@ const Juna1013 = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </p>
 
+<!--
 ![trophies](https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true)
+-->
 
 ## 🏆 Achievements
 
