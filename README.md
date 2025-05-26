@@ -82,7 +82,7 @@ const Juna1013 = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=algolia&no-frame=true&column=4&margin-w=16&margin-h=16" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=4&margin-w=16&margin-h=16" alt="Trophies" />
 </p>
 
 ## 🌐 Access
