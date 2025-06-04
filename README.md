@@ -97,20 +97,6 @@ const Juna1013 = {
   </a>
 </p>
 
-## 📒 Tech Blog
-
-### Zenn Articles
-
-<!-- profile updater begin: zenn -->
-(略)
-<!-- profile updater end: zenn -->
-
-### Qiita Articles
-
-<!-- profile updater begin: qiita -->
-(略)
-<!-- profile updater end: qiita -->
-
 ## 🐍 Contribution Snake
 
 <p align="center">
