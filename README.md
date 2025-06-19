@@ -98,8 +98,8 @@ const Juna1013 = {
 </p>
 
 ## 📚 Books
-### Web
-[x]
+### 言語
+- [x] やさしいC
 
 ## 🐍 Contribution Snake
 
