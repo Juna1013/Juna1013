@@ -101,6 +101,10 @@ const Juna1013 = {
 ### 言語
 - [x] やさしいC
 
+### Web
+
+### インターネット
+
 ## 🐍 Contribution Snake
 
 <p align="center">
