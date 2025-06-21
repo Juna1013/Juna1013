@@ -96,7 +96,8 @@ const Juna1013 = {
   </a>
 </p>
 
-<details><summary>## 📚 Books</summary>
+## 📚 Books
+<details><summary>詳しく見る</summary>
 
 ### 言語
 - [ ] やさしいC（第5版）
