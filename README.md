@@ -7,15 +7,14 @@
 ```typescript
 const Juna1013 = {
   age: 18,
+  gender: "Male",
   location: "Japan",
+  education: "NITIC",
   learning: [
     "Python",
     "JS / TS",
     "React",
     "Next.js",
-    "Vite",
-    "Astro",
-    "Arduino",
     "RaspberryPi"
   ],
 };
