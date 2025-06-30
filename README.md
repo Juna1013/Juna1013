@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
-<img src=""/>
+<img src="NCG260-scaled_0630035926.png"/>
 
 ## 📒 About Me
 
