@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="NCG260-scaled_0630035926.png" alt="profile_image">
+  <img src="profile.png" alt="profile_image">
 </div>
 
 ## 📒 About Me
