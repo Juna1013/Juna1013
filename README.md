@@ -59,13 +59,13 @@ const Juna1013 = {
 
 ## 🌟 Interests
 
-- **Vue** | フロントエンドフレームワーク
+- **Vue** | インターンで使うかも
 - **FastAPI** ⚡｜APIフレームワーク
-- **Ruby on Rails** 💎｜ バックエンド
-- **PostgreSQL** 🗄️｜リレーショナルデータベース
-- **Supabase** 🛡️｜BaaS
-- **Rust** | バックエンド
-- **OpenCV** | 画像加工
+- **Ruby on Rails** 💎｜ PBLで使ってみたい
+- **PostgreSQL** 🗄️｜DBいじってみたい
+- **Supabase** 🛡️DB管理に使ってみたい
+- **Rust** | 堅牢なバックエンド開発をしてみたい
+- **OpenCV** | 画像認識のための下処理
 
 <p align="center">
   <a href="https://skillicons.dev">
