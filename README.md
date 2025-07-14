@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
-<div align="center">
-  <img src="profile.png" alt="profile_image" style="width: 80%;">
-</div>
+<p align="center">
+  <img src="profile.png" alt="profile_image" width="600">
+</p>
 
 ## 📒 About Me
 
