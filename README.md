@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.png" alt="profile_image" width="600">
+  <img src="profile.png" alt="profile_image" width="500">
 </p>
 
 ## 📒 About Me
