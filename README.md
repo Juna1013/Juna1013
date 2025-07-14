@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="profile.png" alt="profile_image">
+  <img src="profile.png" alt="profile_image" style="width: 80%;">
 </div>
 
 ## 📒 About Me
