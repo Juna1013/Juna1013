@@ -27,33 +27,32 @@ const Juna1013 = {
 ## ⚙ Skills
 
 - **C/C++** ⚒️ 競技プログラミング
-- **HTML/CSS** 📄｜Webページの骨組み・スタイル
+- **HTML/CSS** 📄｜Web開発
 - **TailwindCSS** 🎨｜CSSフレームワーク
-- **Vercel** ☁️｜デプロイ先
+- **Vercel** ☁️｜フロンドエンド向けデプロイサーバー
 - **Markdown** ✍️｜READMEやドキュメント記述用
-- **Bash** 🖥️｜ターミナル操作・スクリプト実行
-- **Git** 🔧｜バージョン管理
+- **Bash** 🖥️｜ターミナル操作
+- **Git / GitHub** 🔧｜バージョン管理
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,bash,git" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,bash,git,github" alt="Skills" /></br>
   </a>
 </p>
 
 ## 🖊 Learning
 
-- **Python** 🧠｜機械学習・データ分析
+- **Python** 🧠｜バックエンド、画像認識、機械学習、データ分析
 - **JavaScript / TypeScript** 🌐｜Web開発
-- **React** ⚛️｜UI構築用Js / Tsライブラリ
-- **Next.js** 🚀｜Reactのフルスタックフレームワーク
+- **React** ⚛️｜UI構築用Jsライブラリ
+- **Next.js** 🚀｜フロントエンドフレームワーク
 - **Vite** ⚡｜フロントエンド開発ビルドツール
-- **Astro** 🌌｜静的サイト用フレームワーク
-- **Arduino** ⚙️｜RaspberryPiの開発環境
-- **Raspberry Pi** 🍓｜PBL実験での利用
+- **Astro** 🌌｜静的サイト開発に使ってみたい
+- **Raspberry Pi** 🍓｜PBL実験で使用中
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,arduino,raspberrypi" alt="Currently Learning" /></br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,raspberrypi" alt="Currently Learning" /></br>
   </a>
 </p>
 
