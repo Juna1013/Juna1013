@@ -52,7 +52,7 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,raspberrypi,ros" alt="Currently Learning" /></br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,raspberrypi" alt="Currently Learning" /></br>
   </a>
 </p>
 
