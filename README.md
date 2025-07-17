@@ -68,7 +68,7 @@ const Juna1013 = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,fastapi,ruby,rails,postgresql,supabase,rust,opencv" alt="Future Interests" />
+    <img src="https://skillicons.dev/icons?i=vue,fastapi,ruby,rails,postgresql,supabase,rust,opencv,googlecloud,cloudflare,wordpress" alt="Future Interests" />
   </a>
 </p>
 
