@@ -45,9 +45,9 @@ const Juna1013 = {
 - **Python** 🧠｜バックエンド、画像認識、機械学習、データ分析
 - **JavaScript / TypeScript** 🌐｜Web開発
 - **React** ⚛️｜UI構築用Jsライブラリ
-- **Next.js** 🚀｜フロントエンドフレームワーク
-- **Vite** ⚡｜フロントエンド開発ビルドツール
-- **Astro** 🌌｜静的サイト開発に使ってみたい
+- **Next.js** 🚀｜フレームワーク
+- **Vite** ⚡｜ビルドツール
+- **Astro** 🌌｜静的サイト開発
 - **Raspberry Pi** 🍓｜PBL実験で使用中
 
 <p align="center">
