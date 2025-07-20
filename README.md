@@ -65,9 +65,9 @@ const Juna1013 = {
 - **Supabase** 🛡️｜DB管理に使ってみたい
 - **Rust** ⚙️｜堅牢なバックエンド開発をしてみたい
 - **OpenCV** 🖼️｜画像認識のための下処理
-- **Firebase** | 新規のデプロイ先
-- **Cloudflare** | 新規のデプロイ先
-- **WordPress** | CMS
+- **Firebase** 🔥 | 新規のデプロイ先
+- **Cloudflare** ☁️ | 新規のデプロイ先
+- **WordPress** 🇼 | CMS
 
 <p align="center">
   <a href="https://skillicons.dev">
