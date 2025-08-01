@@ -8,54 +8,49 @@
 
 ## ⚙ Skills
 
-- **C/C++** ⚒️ 競技プログラミング
-- **HTML/CSS** 📄｜Web開発
-- **TailwindCSS** 🎨｜CSSフレームワーク
-- **Vercel** ☁️｜フロンドエンド向けデプロイサーバー
-- **Markdown** ✍️｜READMEやドキュメント記述用
-- **Bash** 🖥️｜ターミナル操作
-- **Git / GitHub** 🔧｜バージョン管理
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,vercel,markdown,bash,git,github" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,markdown,bash,git,github" alt="Skills" /></br>
   </a>
 </p>
 
-## 🖊 Learning
-
-- **Python** 🧠｜バックエンド、画像認識、機械学習、データ分析
-- **JavaScript / TypeScript** 🌐｜Web開発
-- **React** ⚛️｜UI構築用Jsライブラリ
-- **Next.js** 🚀｜フレームワーク
-- **Vite** ⚡｜ビルドツール
-- **Astro** 🌌｜静的サイト開発
-- **Raspberry Pi** 🍓｜PBL実験で使用中
-
+<details>
+<summary>Click to expand</summary>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vite,astro,raspberrypi" alt="Currently Learning" /></br>
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="C++" />
 </p>
+</details>
 
-## 🌟 Interests
+### 🛠 Frameworks & Libraries
 
-- **Vue** 💡｜インターンで使うかも
-- **FastAPI** ⚡｜APIフレームワーク
-- **Ruby on Rails** 💎｜ PBLで使ってみたい
-- **PostgreSQL** 🗄️｜DBいじってみたい
-- **Supabase** 🛡️｜DB管理に使ってみたい
-- **Rust** ⚙️｜堅牢なバックエンド開発をしてみたい
-- **OpenCV** 🖼️｜画像認識のための下処理
-- **Firebase** 🔥 | 新規のデプロイ先
-- **Cloudflare** ☁️ | 新規のデプロイ先
-- **WordPress** 🇼 | CMS
-
+<details>
+<summary>Click to expand</summary>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,fastapi,ruby,rails,postgresql,supabase,rust,opencv,firebase,cloudflare,wordpress" alt="Future Interests" />
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
+</details>
+
+### ☁️ Cloud & DevOps
+
+<details>
+<summary>Click to expand</summary>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+</details>
+
 
 ## 📈 GitHub Analytics
 
