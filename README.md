@@ -25,51 +25,9 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=4&margin-w=16&margin-h=16" alt="Trophies" />
 </p>
-
-## 📚 Books
-<details><summary>詳しく見る</summary>
-
-### 言語
-- [ ] やさしいC（第5版）
-- [x] スッキリわかるPython入門 第2版
-
-### Web
-- [x] 1冊ですべて身につくHTML&CSSとWebデザイン入門講座 [第2版]
-- [x] 図解AWSの仕組みとサービスがたった1日でよくわかる
-- [x] モダンJavaScriptの基本から始める React実践の教科書
-- [ ] 1冊ですべて身につくWeb&グラフィックデザイン入門講座
-
-### 論理回路
-- [ ] 論理回路入門 第4版
-
-### データ構造とアルゴリズム
-- [ ] アルゴリズム論（IT Tex）
-- [ ] プログラミングコンテスト攻略のためのアルゴリズムとデータ構造
-- [ ] 定本 Cプログラマのためのアルゴリズムとデータ構造
-- [ ] C言語によるはじめてのアルゴリズム入門
-- [ ] 問題解決力を鍛える！アルゴリズムとデータ構造
-
-### インターネット
-- [x] 【改訂5版】図解でよくわかる ネットワークの重要用語解説
-- [ ] マスタリングTCP/IP 入門編 第6版
-
-### 機械学習
-- [ ] Pythonではじめる機械学習 ー scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎
-- [x] 深層学習教科書 ディープラーニング G検定（ジェネラリスト）公式テキスト 第3版
-
-### 競技プログラミング
-- [ ] 競技プログラミングの鉄則
-
-### 応用情報技術者試験
-- [x] 令和07年【春期】【秋期】応用情報技術者試験 合格教本
-- [ ] 2024 応用情報技術者 午後問題の重点対策
-
-</details>
 
 ## 🐍 Contribution Snake
 
