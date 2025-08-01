@@ -3,26 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="profile.png" alt="profile_image" width="500">
+  <img src="profile.png" alt="profile_image" width="400">
 </p>
-
-## 📒 About Me
-
-```typescript
-const Juna1013 = {
-  age: 18,
-  gender: "Male",
-  location: "Japan",
-  education: "NITIC",
-  learning: [
-    "Python",
-    "JS / TS",
-    "React",
-    "Next.js",
-    "RaspberryPi"
-  ],
-};
-```
 
 ## ⚙ Skills
 
