@@ -27,11 +27,9 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=500&card_height=194" alt="Top Languages" />
 </p>
 
-<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=4&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophy" />
 </p>
--->
 
 ## Contribution Snake
 
