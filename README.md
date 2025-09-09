@@ -28,7 +28,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=4&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophies" />
 </p>
 
 ## Contribution Snake
