@@ -21,6 +21,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,astro" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=vue,remix,opencv,googlecloud" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=fastapi,postgresql,raspberrypi,sqlite" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=aws,vite,supabase,docker" alt="Skills" /></br>
   </a>
 </p>
 
