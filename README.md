@@ -15,12 +15,11 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdonw" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next.js" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=view,vite,remix,tailwindcss" alt="Skills" /></br>
+    <img src="https://skillicons.dev/icons?i=vue,vite,remix,tailwindcss" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=fastapi,postgresql,raspberrypi,sqlite" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,vite,supabase,docker" alt="Skills" /></br>
     <img src="https://skillicons.dev/icons?i=vercel,supabase,aws,googlecloud" alt="Skills" /></br>
   </a>
 </p>
