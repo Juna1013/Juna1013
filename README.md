@@ -15,13 +15,16 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=vue,vite,remix,tailwindcss" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=fastapi,postgresql,raspberrypi,sqlite" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=bash,astro,opencv,docker" alt="Skills" /></br>
-    <img src="https://skillicons.dev/icons?i=vercel,supabase,aws,googlecloud" alt="Skills" /></br>
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html" alt="Skills" /></br>
+    <!-- Web basics -->
+    <img src="https://skillicons.dev/icons?i=css,javascript,typescript,react,nextjs" alt="Skills" /></br>
+    <!-- Frontend frameworks / styling -->
+    <img src="https://skillicons.dev/icons?i=remix,tailwindcss,vite,git,github" alt="Skills" /></br>
+    <!-- Backend / DB -->
+    <img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,raspberrypi,opencv" alt="Skills" /></br>
+    <!-- Infra / Cloud -->
+    <img src="https://skillicons.dev/icons?i=bash,vercel,supabase,aws,googlecloud" alt="Skills" /></br>
   </a>
 </p>
 
