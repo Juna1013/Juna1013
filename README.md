@@ -15,10 +15,14 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html" alt="Skills" /><br/>
-    <img src="https://skillicons.dev/icons?i=css,javascript,typescript,react,nextjs" alt="Skills" /><br/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss,git,github,opencv" alt="Skills" /><br/>
-    <img src="https://skillicons.dev/icons?i=bash,vercel,googlecloud" alt="Skills" />
+    <!-- 1段目: 基礎言語 -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown" /><br/>
+    <!-- 2段目: Web基礎 -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br/>
+    <!-- 3段目: フロントエンド -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,git" /><br/>
+    <!-- 4段目: その他ツール -->
+    <img src="https://skillicons.dev/icons?i=github,opencv,bash,vercel" />
   </a>
 </p>
 
