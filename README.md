@@ -13,7 +13,7 @@
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
-## Skills
+## Skill
 C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経験があります。
 
 <p align="center">
