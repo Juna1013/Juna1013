@@ -41,6 +41,26 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophies" />
 </p>
 
+## Knowledge Journey
+
+<details>
+<summary><strong>📖 Books Conquered</strong></summary>
+
+### **Programming Languages**
+- やさしいC 第5版
+- スッキリわかるPython入門 第2版
+
+### **Software Engineering**
+- 1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］
+
+### **Computer Science**
+- 計算機システム（改訂版）
+
+### **Machine Learning**
+- 図解即戦力 機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書
+
+</details>
+
 ## Contribution Snake
 
 <p align="center">
