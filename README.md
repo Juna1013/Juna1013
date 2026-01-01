@@ -44,7 +44,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 ## Knowledge Journey
 
 <details>
-<summary><strong>📖 Books Conquered</strong></summary>
+<summary><strong>Books Conquered</strong></summary>
 
 ### **Programming Languages**
 - やさしいC 第5版
