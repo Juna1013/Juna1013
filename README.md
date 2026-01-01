@@ -54,6 +54,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 - 1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］
 
 ### **Computer Science**
+- 図解でよくわかるの重要用語解説
 - 計算機システム（改訂版）
 
 ### **Machine Learning**
