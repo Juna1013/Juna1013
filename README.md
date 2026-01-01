@@ -54,8 +54,9 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 - 1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］
 
 ### **Computer Science**
-- 図解でよくわかるの重要用語解説
+- 図解でよくわかるネットワークの重要用語解説
 - 計算機システム（改訂版）
+- 令和07年【春期】【秋季】応用情報技術者試験 合格教本
 
 ### **Machine Learning**
 - 図解即戦力 機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書
