@@ -60,6 +60,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 ### **Machine Learning**
 - 図解即戦力 機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書
+- やさしいMCP入門
 
 </details>
 
