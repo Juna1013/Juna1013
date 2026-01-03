@@ -62,6 +62,10 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 - 図解即戦力 機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書
 - やさしいMCP入門
 
+### Soft Slills
+- 人は話し方が9割
+- 嫌われる勇気
+
 </details>
 
 ## Contribution Snake
