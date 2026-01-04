@@ -6,14 +6,14 @@
   <img src="profile.png" alt="profile_image" width="400">
 </p>
 
-## Biography
+## 🗒️ Biography
 - 2025.05.10：DCON2025に本選出場（95チーム中5位、TOPY工業賞、日立産業制御ソリューションズ賞、Quick賞）
 - 2025.08.18：茨城県警サイバーセキュリティボランティア委嘱
 - 2025.09.01 - 09.05：EPSON サマーインターンに参加
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
-## Skill
+## 🛠️ Skill
 C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経験があります。
 
 <p align="center">
@@ -29,6 +29,8 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
   </a>
 </p>
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=501&card_height=195" alt="GitHub Streak" />
 </p>
@@ -41,10 +43,10 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophies" />
 </p>
 
-## Knowledge Journey
+## 📚 Knowledge Journey
 
 <details>
-<summary><strong>Books Conquered</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 ### **Programming Languages**
 - やさしいC 第5版
@@ -68,7 +70,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 </details>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
