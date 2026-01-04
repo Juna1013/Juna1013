@@ -6,6 +6,11 @@
   <img src="profile.png" alt="profile_image" width="400">
 </p>
 
+## 💫 About Me
+
+- 4th grades Student
+- Learning Algorthm, frontend, and ML
+
 ## 🗒️ Biography
 - 2025.05.10：DCON2025に本選出場（95チーム中5位、TOPY工業賞、日立産業制御ソリューションズ賞、Quick賞）
 - 2025.08.18：茨城県警サイバーセキュリティボランティア委嘱
