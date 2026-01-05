@@ -50,6 +50,8 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 ## 📚 Knowledge Journey
 
+### Books Conquered（読破済み）
+
 <details>
 <summary><strong>Click to expand</strong></summary>
 
@@ -73,6 +75,13 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 - 人は話し方が9割
 - 嫌われる勇気
 
+</details>
+
+### Reading Backlog（積読リスト）
+
+<details>
+<summary><strong>Click to expand</strong></summary>
+  
 </details>
 
 ## 🐍 Contribution Snake
