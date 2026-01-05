@@ -50,7 +50,7 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 ## 📚 Knowledge Journey
 
-### Books Conquered（読破済み）
+### 📖 Books Conquered（読破済み）
 
 <details>
 <summary><strong>Click to expand</strong></summary>
@@ -77,10 +77,26 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 </details>
 
-### Reading Backlog（積読リスト）
+### 📋 Reading Backlog（積読リスト）
 
 <details>
 <summary><strong>Click to expand</strong></summary>
+
+### **Software Engineering**
+- 体系的に学ぶ 安全なWebアプリケーションの作り方
+- Webを支える技術 -HTTP、URI、HTML、そしてREST
+
+### **Computer Science**
+- 問題解決力を鍛える!アルゴリズムとデータ構造
+- マスタリングTCP/IP―入門編―
+
+### **Machine Learning**
+- ゼロからつくるDeep Learning
+
+### Soft Skills
+- 幸せになる勇気
+- 人は聞き方が9割
+- 100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった
   
 </details>
 
