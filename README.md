@@ -77,7 +77,17 @@ C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経�
 
 </details>
 
-### 📋 Reading Backlog（積読リスト）
+### Reading（読書中）
+
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+- C言語によるはじめてのアルゴリズム入門
+- ブロックチェーン
+
+</details>
+
+### 📋 Backlog（積読リスト）
 
 <details>
 <summary><strong>Click to expand</strong></summary>
