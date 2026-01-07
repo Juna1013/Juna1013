@@ -18,20 +18,11 @@
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
-## 🛠️ Skill
+## 🛠️ Tech Stack
 C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経験があります。
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- 1段目: 基礎言語 -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,opencv" /><br/>
-    <!-- 2段目: Web基礎 -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br/>
-    <!-- 3段目: フロントエンド -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vercel" /><br/>
-    <!-- 4段目: その他ツール -->
-    <img src="https://skillicons.dev/icons?i=git,github,bash,markdown" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,c,cpp,git,python,tailwindcss,vercel&theme=dark" alt="Languages" />
 </p>
 
 ## 📊 GitHub Analytics
