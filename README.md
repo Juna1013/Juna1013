@@ -19,7 +19,7 @@
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
 ## 🛠️ Tech Stack
-C/C++, Python, HTML/CSS, TailwindCSS, Vercel, Markdown, Bash, Git/Githubの経験があります。
+C/C++,Python,TailwindCSS,Vercel,AWSの経験があります。
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,c,cpp,git,python,tailwindcss,vercel&theme=dark" alt="Languages" />
