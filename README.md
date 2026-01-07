@@ -93,6 +93,7 @@ C/C++,Python,HTML/CSS,TailwindCSS,Vercel,AWS,Git/GitHubの経験があります�
 ### **Software Engineering**
 - 体系的に学ぶ 安全なWebアプリケーションの作り方
 - Webを支える技術 -HTTP、URI、HTML、そしてREST
+- TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発
 
 ### **Computer Science**
 - 問題解決力を鍛える!アルゴリズムとデータ構造
@@ -100,6 +101,7 @@ C/C++,Python,HTML/CSS,TailwindCSS,Vercel,AWS,Git/GitHubの経験があります�
 
 ### **Machine Learning**
 - ゼロからつくるDeep Learning
+- Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎
 
 ### Soft Skills
 - 幸せになる勇気
