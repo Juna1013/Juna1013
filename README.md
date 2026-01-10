@@ -101,10 +101,13 @@ C/C++,Python,HTML/CSS,TailwindCSS,Vercel,AWS,Git/GitHubの経験があります�
 
 ### **Machine Learning**
 - ゼロからつくるDeep Learning
+- 大規模言語モデル入門
+- Kaggle コンペティション チャレンジブック
 - Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎
 
 ### Soft Skills
 - 幸せになる勇気
+- 頭のいい人が話す前に考えていること
 - 人は聞き方が9割
 - 100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった
   
