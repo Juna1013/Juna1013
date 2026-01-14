@@ -19,11 +19,20 @@
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
 ## 🛠️ Tech Stack
-C/C++,Python,HTML/CSS,TailwindCSS,Vercel,AWS,Git/GitHubの経験があります。
+
+### 🚀 Built Real Applications With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,aws,git&theme=dark" alt="Languages" />
 </p>
+
+### ✏️ Learning / Prototyping Only
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,node,vite,react,nextjs,aruduino,raspberrypi&theme=dark" alt="Languages" />
+</p>
+
+### 🤖 AI Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
