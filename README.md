@@ -29,7 +29,7 @@
 ### ✏️ Learning / Prototyping Only
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,aruduino,raspberrypi&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,arduino,raspberrypi&theme=dark" alt="Languages" />
 </p>
 
 ### 🤖 AI Tools
