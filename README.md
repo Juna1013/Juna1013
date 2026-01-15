@@ -44,15 +44,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=501&card_height=195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=500&card_height=194" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=501&card_height=194" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=640&card_height=194" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
 </p>
 
 ## 📚 Knowledge Journey
