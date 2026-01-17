@@ -90,7 +90,6 @@
 <summary><strong>Click to expand</strong></summary>
 
 - C言語によるはじめてのアルゴリズム入門
-- ブロックチェーン
 
 </details>
 
