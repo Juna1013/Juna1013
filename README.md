@@ -56,6 +56,9 @@
 
 ## 📊 GitHub Analytics
 
+<details>
+<summary><strong>Click to expand</strong></summary>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
 </p>
@@ -67,6 +70,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
 </p>
+
+</details>
 
 ## 📚 Knowledge Journey
 
@@ -88,6 +93,8 @@
 - 令和07年【春期】【秋季】応用情報技術者試験 合格教本
 - メタバース超入門
 - はじめての自作キーボード
+- C言語によるはじめてのアルゴリズム入門
+- サイバーセキュリティの教科書
 
 ### **Machine Learning**
 - 図解即戦力 機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書
@@ -105,8 +112,7 @@
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- C言語によるはじめてのアルゴリズム入門
-- 大規模言語モデル入門
+- ゼロからつくるDeep Learning
 
 </details>
 
@@ -126,7 +132,6 @@
 - マスタリングTCP/IP―入門編―
 
 ### **Machine Learning**
-- ゼロからつくるDeep Learning
 - Kaggle コンペティション チャレンジブック
 - Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎
 
