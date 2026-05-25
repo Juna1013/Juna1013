@@ -2,14 +2,27 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
+## 💫 About Me
+
 <p align="center">
   <img src="profile.png" alt="profile_image" width="400">
 </p>
 
-## 💫 About Me
+### Quick Facts
 
 - 4th grades Student
 - Learning Algorthm, frontend, and ML
+
+## 💡 2026 Goals
+
+### 🔧 Technical Growth
+
+- 自身のポートフォリオを開発する
+- バックエンドを用いたアプリケーションを開発する
+
+### 📝 Content Creation
+
+- スクラップを活用しつつ、年30本の技術ブログ（Zennm Qiita）の投稿
 
 ## 🗒️ Biography
 - 2025.05.10：DCON2025に本選出場（95チーム中5位、TOPY工業賞、日立産業制御ソリューションズ賞、Quick賞）
