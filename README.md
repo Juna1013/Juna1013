@@ -36,13 +36,13 @@
 ### 🚀 Built Real Applications With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,aws,git&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,git,github&theme=dark" alt="Languages" />
 </p>
 
 ### ✏️ Learning / Prototyping Only
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,rs&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,rs,aws&theme=dark" alt="Languages" />
 </p>
 
 ## 📊 GitHub Analytics
