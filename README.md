@@ -99,15 +99,6 @@
 
 </details>
 
-### Reading（読書中）
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-- 『ゼロからつくるDeep Learning』
-
-</details>
-
 ### 📋 Backlog（積読リスト）
 
 <details>
@@ -119,6 +110,7 @@
 - 『TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発』
 - 『チーム開発 実践入門』
 - 『GitHub 実践入門』
+- 『ゼロからつくるDeep Learning』
 
 ### **Computer Science**
 - 『問題解決力を鍛える!アルゴリズムとデータ構造』
