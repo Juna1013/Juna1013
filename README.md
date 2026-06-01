@@ -42,7 +42,7 @@
 ### ✏️ Learning / Prototyping Only
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,rs,aws&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,aws,rs&theme=dark" alt="Languages" />
 </p>
 
 ## 📊 GitHub Analytics
