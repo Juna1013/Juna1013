@@ -110,13 +110,13 @@
 - 『TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発』
 - 『チーム開発 実践入門』
 - 『GitHub 実践入門』
-- 『ゼロからつくるDeep Learning』
 
 ### **Computer Science**
 - 『問題解決力を鍛える!アルゴリズムとデータ構造』
 - 『マスタリングTCP/IP―入門編―』
 
 ### **Machine Learning**
+- 『ゼロからつくるDeep Learning』
 - 『Kaggle コンペティション チャレンジブック』
 - 『Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎』
 
