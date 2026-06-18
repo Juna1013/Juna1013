@@ -67,7 +67,7 @@
 
 # 📚 Knowledge Journey
 
-## 📖 Books Conquered（読破済み）
+### 📖 Books Conquered
 
 <details>
 <summary><strong>Click to expand</strong></summary>
@@ -100,7 +100,7 @@
 
 </details>
 
-### 📋 Backlog（積読リスト）
+### 📋 Backlog
 
 <details>
 <summary><strong>Click to expand</strong></summary>
