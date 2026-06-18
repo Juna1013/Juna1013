@@ -1,6 +1,10 @@
 [![Likes](https://badgen.org/img/zenn/jun1013/likes?style=plastic)](https://zenn.dev/jun1013)
 [![Contributions](https://badgen.org/img/qiita/juna1013/contributions?style=plastic)](https://qiita.com/juna1013)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
+</p>
+
 # 💫 My Profile
 
 <p align="center">
