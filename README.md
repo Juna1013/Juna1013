@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
-</p>
 
 # 💫 My Profile
 
-- 4th grades Student
-- Learning Algorthm, frontend, and ML
+- 👤 Name: Juna1013
+- 🧬 Gender: He/Him
+- 🌏 Location: Ibaraki, Japan
+- 🧑‍💻 Professional: Learning, Algorithm, machine learning
+- 🎨 Hobbies: Music, Pazle, Art
+- ☁️ One liner: "Don't forget death."
 
 ## 🗒️ Biography
 - 2025.05.10：DCON2025に本選出場（95チーム中5位、TOPY工業賞、日立産業制御ソリューションズ賞、Quick賞）
