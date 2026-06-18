@@ -44,7 +44,7 @@
 ## 📚 Library & Framework
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=nodejs,tailwindcss&theme=dark" alt="Languages" />
 </p>
 
 ## 🌐 Platforms
