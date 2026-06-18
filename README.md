@@ -35,37 +35,39 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15&card_width=641&card_height=195" alt="Trophies" />
 </p>
 
-## 💻 Programming Languages
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" alt="Languages" />
 </p>
 
-## 📚 Library & Framework
+### 📚 Library & Framework
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,tailwindcss&theme=dark" alt="Languages" />
 </p>
 
-## 🌐 Platforms
+### 🌐 Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,aws,github&theme=dark" alt="Languages" />
 </p>
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=npm,vite,git&theme=dark" alt="Languages" />
 </p>
 
-## 💾 Software
+### 💾 Software
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Languages" />
 </p>
 
-## 📱 Applications
+### 📱 Applications
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,discord,twitter,instagram&theme=dark" alt="Languages" />
