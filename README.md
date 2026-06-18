@@ -62,13 +62,13 @@
 ## 💾 Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,mac,linux&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Languages" />
 </p>
 
 ## 📱 Applications
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,discord&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,discord,twitter,instagram&theme=dark" alt="Languages" />
 </p>
 
 # 📚 Knowledge Journey
