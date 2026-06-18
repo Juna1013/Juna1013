@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15&card_width=641&card_height=195" alt="Trophies" />
 </p>
 
 ## 💻 Programming Languages
@@ -49,7 +49,7 @@
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,vitr,git&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=npm,vite,git&theme=dark" alt="Languages" />
 </p>
 
 ## 💾 Software
