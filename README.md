@@ -62,7 +62,7 @@
 ## 💾 Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=windows,mac,linux&theme=dark" alt="Languages" />
 </p>
 
 ## 📱 Applications
