@@ -28,23 +28,45 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
 </p>
 
-## 🛠️ Tech Stack
-
-### 🚀 Built Real Applications With
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,vercel,git,github&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" alt="Languages" />
 </p>
 
-### ✏️ Learning / Prototyping Only
+## 📚 Library & Framework
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,aws,rs&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" alt="Languages" />
 </p>
 
-## 📚 Knowledge Journey
+## 🌐 Platforms
 
-### 📖 Books Conquered（読破済み）
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,aws,github&theme=dark" alt="Languages" />
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,vitr,git&theme=dark" alt="Languages" />
+</p>
+
+## 💾 Software
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Languages" />
+</p>
+
+## 📱 Applications
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,discord&theme=dark" alt="Languages" />
+</p>
+
+# 📚 Knowledge Journey
+
+## 📖 Books Conquered（読破済み）
 
 <details>
 <summary><strong>Click to expand</strong></summary>
