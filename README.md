@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
-## 💫 My Profile
+# 💫 My Profile
 
 - 4th grades Student
 - Learning Algorthm, frontend, and ML
@@ -14,7 +14,7 @@
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
-## GitHub Stats
+# ⭐️ GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
