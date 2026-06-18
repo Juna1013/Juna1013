@@ -2,27 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
-## 💫 About Me
-
-<p align="center">
-  <img src="profile.png" alt="profile_image" width="400">
-</p>
-
-### Quick Facts
+## 💫 My Profile
 
 - 4th grades Student
 - Learning Algorthm, frontend, and ML
-
-## 💡 2026 Goals
-
-### 🔧 Technical Growth
-
-- 自身のポートフォリオを開発する
-- バックエンドを用いたアプリケーションを開発する
-
-### 📝 Content Creation
-
-- スクラップを活用しつつ、年30本の技術ブログ（Zennm Qiita）の投稿
 
 ## 🗒️ Biography
 - 2025.05.10：DCON2025に本選出場（95チーム中5位、TOPY工業賞、日立産業制御ソリューションズ賞、Quick賞）
@@ -30,6 +13,20 @@
 - 2025.09.01 - 09.05：EPSON サマーインターンに参加
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=501&card_height=194" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -44,25 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,react,nextjs,astro,supabase,gcp,arduino,raspberrypi,aws,rs&theme=dark" alt="Languages" />
 </p>
-
-## 📊 GitHub Analytics
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=501&card_height=194" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=16&margin-h=16&card_width=641&card_height=195" alt="Trophies" />
-</p>
-
-</details>
 
 ## 📚 Knowledge Journey
 
