@@ -1,6 +1,10 @@
 
 # 💫 My Profile
 
+<p align="center">
+  <img src="profile.png" alt="profile_image" width="400">
+</p>
+
 - 👤 Name: Juna1013
 - 🧬 Gender: He/Him
 - 🌏 Location: Ibaraki, Japan
