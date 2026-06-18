@@ -1,3 +1,5 @@
+[![Likes](https://badgen.org/img/zenn/jun1013/likes?style=plastic)](https://zenn.dev/jun1013)
+[![Contributions](https://badgen.org/img/qiita/juna1013/contributions?style=plastic)](https://qiita.com/juna1013)
 
 # 💫 My Profile
 
