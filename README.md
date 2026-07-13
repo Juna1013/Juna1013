@@ -65,18 +65,6 @@
   <img src="https://skillicons.dev/icons?i=npm,vite,git&theme=dark" alt="Languages" />
 </p>
 
-### 💾 Software
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Languages" />
-</p>
-
-### 📱 Applications
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,discord,twitter,instagram&theme=dark" alt="Languages" />
-</p>
-
 # 📚 Knowledge Journey
 
 ### 📖 Books Conquered
