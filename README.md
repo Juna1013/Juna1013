@@ -1,12 +1,10 @@
 [![Likes](https://badgen.org/img/zenn/jun1013/likes?style=plastic)](https://zenn.dev/jun1013)
 [![Contributions](https://badgen.org/img/qiita/juna1013/contributions?style=plastic)](https://qiita.com/juna1013)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20Juna1013&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 </p>
 
 # 💫 My Profile
-
 <p align="center">
   <img src="profile.png" alt="profile_image" width="400">
 </p>
@@ -28,33 +26,37 @@
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" alt="Languages" />
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### 📚 Library & Framework
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,tailwindcss&theme=dark" alt="Languages" />
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### 🌐 Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,aws,github&theme=dark" alt="Languages" />
+<p>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ### 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,vite,git&theme=dark" alt="Languages" />
+<p>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 # 📚 Knowledge Journey
 
 ### 📖 Books Conquered
-
 <details>
 <summary><strong>Click to expand</strong></summary>
 
@@ -83,11 +85,9 @@
 - 『人は話し方が9割』
 - 『嫌われる勇気』
 - 『100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった』
-
 </details>
 
 ### 📋 Backlog
-
 <details>
 <summary><strong>Click to expand</strong></summary>
 
@@ -111,5 +111,5 @@
 - 『幸せになる勇気』
 - 『頭のいい人が話す前に考えていること』
 - 『人は聞き方が9割』
-  
+
 </details>
