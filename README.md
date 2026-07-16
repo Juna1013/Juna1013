@@ -25,20 +25,6 @@
 - 2025.11.26：第5回 得意技・先進技術交流会に参加
 - 2025.11.28：第8回CTF神奈川 6位（60人中）
 
-# ⭐️ GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Juna1013&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500&card_height=195" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juna1013&hide=jupyter%20notebook&layout=compact&card_width=501&card_height=194" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juna1013&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15&card_width=641&card_height=195" alt="Trophies" />
-</p>
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -127,17 +113,3 @@
 - 『人は聞き方が9割』
   
 </details>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Juna1013/Juna1013/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
-</p>
