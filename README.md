@@ -14,7 +14,7 @@
 - 👤 Name: Juna1013
 - 🧬 Gender: He/Him
 - 🌏 Location: Ibaraki, Japan
-- 🧑‍💻 Professional: Learning, Algorithm, machine learning
+- 🧑‍💻 Professional: Learning, Algorithm, Mathemathics
 - 🎨 Hobbies: Music, Pazle, Art
 - ☁️ One liner: "Don't forget death."
 
