@@ -31,6 +31,7 @@
 ### 📚 Framework & Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 ## 🗒️ Work Priducts & Achievements
