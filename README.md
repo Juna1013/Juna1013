@@ -25,7 +25,7 @@
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Lean" src="https://img.shields.io/badge/-Lean-4C6EDB?style=flat-square&logo=lean&logoColor=white" />
+  <img alt="Lean" src="https://img.shields.io/badge/-Lean-4C6EDB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCAzTDEyIDIxTDIwIDMiLz48cGF0aCBkPSJNNyAxMEgxNyIvPjwvc3ZnPg==" />
 </p>
 
 ### 📚 Framework & Tools
